@@ -1,1 +1,0 @@
-import{E as e,a as t,n}from"./product-D9cC9Roe.js";var r=e(),i=t(),a=document.getElementById(`root`);if(!a)throw Error(`Missing root element`);(0,r.createRoot)(a).render((0,i.jsx)(n,{staticSite:!0,assetBase:`.`}));

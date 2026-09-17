@@ -2,3 +2,5 @@ User-agent: *
 Allow: /
 
 Sitemap: https://lunoil.com/sitemap.xml
+
+Sitemap: https://lunoil.com/video-sitemap.xml

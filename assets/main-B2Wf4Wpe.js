@@ -1,0 +1,1 @@
+import{C as e,j as t,n}from"./product-BbPkqzTp.js";var r=t(),i=e(),a=document.getElementById(`root`);if(!a)throw Error(`Missing root element`);(0,r.createRoot)(a).render((0,i.jsx)(n,{staticSite:!0,assetBase:`.`}));
